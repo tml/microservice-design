@@ -8,6 +8,7 @@ A software developer reading list for learning more about micro service architec
 
 # Books
 
++ [Antifragile Software - Russ Miles](https://leanpub.com/antifragilesoftware)
 + [Build Micro Services - Sam Newman](http://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358)
 
 # Architectural Patterns
