@@ -48,13 +48,6 @@ A software developer reading list for learning more about micro service architec
 
 When building Microservices we should focus on the "events' that are sent between services
 
-1. JSON 
-2. XML
-3. REST
-4. Protocol Buffers
-5. Messaging systems
+# Transport 
 
-# Protocol Buffers
-
-+ [Why choose protobuffers](http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/)
-
+* [Protocol Buffers](https://github.com/google/protobuf/)
