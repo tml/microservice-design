@@ -10,7 +10,7 @@ A software developer reading list for learning more about micro service architec
 
 # Architectural Patterns
 
-+ ![Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
++ [Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
 + Event Collaboration
 + [Circuit Breaker](http://martinfowler.com/bliki/CircuitBreaker.html)
 + Polyglot Persistence
