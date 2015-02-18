@@ -37,3 +37,19 @@ A software developer reading list for learning more about micro service architec
 * Consumer-Driven Contracts
 * Published Interface
 * Event Sourcing
+
+
+# Design Principles
+
+1. Do not worry about the size of services. Focus on which componnents "change together"
+
+# Events
+
+When building Microservices we should focus on the "events' that are sent between services
+
+1. JSON 
+2. XML
+3. REST
+4. Protocol Buffers
+5. Messaging systems
+
