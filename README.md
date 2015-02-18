@@ -54,3 +54,7 @@ When building Microservices we should focus on the "events' that are sent betwee
 4. Protocol Buffers
 5. Messaging systems
 
+# Protocol Buffers
+
++ [Why choose protobuffers](http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/)
+
