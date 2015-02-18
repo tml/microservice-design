@@ -2,6 +2,10 @@
 
 A software developer reading list for learning more about micro service architecture
 
+# Postel's Law
+
+> Be liberal in what you accept, and conservative in what you send
+
 # Videos
 
 * [Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
