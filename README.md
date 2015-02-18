@@ -15,6 +15,7 @@ A software developer reading list for learning more about micro service architec
 
 # Books
 
+* [Implementing Domain-Driven Design](http://www.amazon.co.uk/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 * [Building Micro Services - Sam Newman](http://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358)
 * [Antifragile Software - Russ Miles](https://leanpub.com/antifragilesoftware)
 
