@@ -15,7 +15,7 @@ A software developer reading list for learning more about micro service architec
 * [Practical Considerations For Microservice Architectures - Sam Newman](https://www.youtube.com/watch?v=5NOaUK74Jt4)
 * [Migrating to Microservices - Adrian Cockcroft](http://www.infoq.com/presentations/migration-cloud-native)
 * [Microservices at Netflix](https://www.youtube.com/watch?v=LEcdWVfbHvc)
-* 
+
 # Books
 
 * [Antifragile: Things That Gain from Disorder](http://www.amazon.com/gp/product/0812979680)
