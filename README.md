@@ -1,5 +1,7 @@
 # Microservices Design
 
+Notes, resource and ideas from a recent BBC Microservices course.
+
 A software developer reading list for learning more about micro service architecture
 
 # Postel's Law
