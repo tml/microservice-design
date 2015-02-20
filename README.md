@@ -16,6 +16,8 @@ A software developer reading list for learning more about micro service architec
 
 # Books
 
+* [Antifragile: Things That Gain from Disorder](http://www.amazon.com/gp/product/0812979680)
+* [The Black Swan](http://www.amazon.com/The-Black-Swan-Improbable-Robustness/dp/081297381X)
 * [Implementing Domain-Driven Design](http://www.amazon.co.uk/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 * [Building Micro Services - Sam Newman](http://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358)
 * [Antifragile Software - Russ Miles](https://leanpub.com/antifragilesoftware)
@@ -27,8 +29,6 @@ A software developer reading list for learning more about micro service architec
 * Russ Miles
 * Martin Fowler
 
-# Articles
-
 # Architectural Patterns
 
 * [API Gateway](http://microservices.io/patterns/apigateway.html)
@@ -39,10 +39,6 @@ A software developer reading list for learning more about micro service architec
 
 1. Do not worry about the size of services. Focus on which componnents "change together"
 
-# Events
-
-When building Microservices we should focus on the "events' that are sent between services
-
-# Transport 
+# Event Transport 
 
 * [Protocol Buffers](https://github.com/google/protobuf/)
